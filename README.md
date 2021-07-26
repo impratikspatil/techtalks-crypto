@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techtalks-crypto
 - 👀 I’m interested in programming and keen of learning new things
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on experinced people in computer programming field
+- 💞️ I’m looking for collaboration with experinced people in computer programming field
 - 📫 How to reach me -this is my email:- impratikspatil@gmail.com
 
 <!---
